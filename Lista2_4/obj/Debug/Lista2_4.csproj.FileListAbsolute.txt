@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\Lista2_4\bin\Debug\Lista2_4.exe.config
+C:\Users\gabri\source\repos\Lista2_4\bin\Debug\Lista2_4.exe
+C:\Users\gabri\source\repos\Lista2_4\bin\Debug\Lista2_4.pdb
+C:\Users\gabri\source\repos\Lista2_4\obj\Debug\Lista2_4.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Lista2_4\obj\Debug\Lista2_4.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Lista2_4\obj\Debug\Lista2_4.exe
+C:\Users\gabri\source\repos\Lista2_4\obj\Debug\Lista2_4.pdb
